@@ -76,4 +76,7 @@ After all these are successfully done. Run
         
 The changes are successfully pushed to the remote repo. Go to Github and check that the file has dropped in.
 
-GIT PULL
+# GIT PULL
+
+This pull command is a combination of git fetch and git merge
+
