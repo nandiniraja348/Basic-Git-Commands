@@ -1,4 +1,4 @@
-#Basic Git Commands
+# Basic Git Commands
 
 This repository contains all the basic git commands to start off with Git. 
 It teaches you from very beginning how to set up a repository 
@@ -31,7 +31,7 @@ Once initializing is done create a file named `README.md` using the command:
         
 Add the required content, in this case the readme file this file you are reading.
 
-###IN GITHUB
+### IN GITHUB
 
 1. Go to the repositories and create a new repo with the same name as the directory created in the terminal(This is a good practice. Else we might tend to confuse with the name of the Repo and the directory in our local).
 2. Choose the owner to be your github repo/ where you want the new repo to be created.
