@@ -75,3 +75,5 @@ After all these are successfully done. Run
         git push -u origin master
         
 The changes are successfully pushed to the remote repo. Go to Github and check that the file has dropped in.
+
+GIT PULL
